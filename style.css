@@ -3,7 +3,7 @@ font-family: Arial;
 }
 
 .banner{
-background-image: url("img/download.jpeg");
+background-image: url("download.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -57,4 +57,5 @@ box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 
 footer{
 margin-top: 50px;
+
 }
