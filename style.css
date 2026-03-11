@@ -1,0 +1,60 @@
+body{
+font-family: Arial;
+}
+
+.banner{
+background-image: url("img/download.jpeg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 150px 0;
+}
+
+.banner h1{
+font-size: 50px;
+font-weight: bold;
+}
+
+.card{
+transition: 0.3s;
+}
+
+.card:hover{
+transform: scale(1.05);
+}
+
+.whatsapp{
+
+position: fixed;
+
+bottom: 20px;
+
+right: 20px;
+
+background: #25D366;
+
+color: white;
+
+font-size: 30px;
+
+width: 60px;
+
+height: 60px;
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+border-radius: 50%;
+
+text-decoration: none;
+
+box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+
+}
+
+footer{
+margin-top: 50px;
+}
